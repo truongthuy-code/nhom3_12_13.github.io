@@ -1,0 +1,39 @@
+<head>
+<title> Bai tap thuc hanh tao lien ket </title>
+</head > 
+<body>
+<h1> <b> Thoi khoa bieu lop hoc </b> </h1> 
+<table border ="1">
+<tr>
+<th> ngay </th>
+<th> Thoi gian </th>
+<th> Mon hoc </th>
+</tr>
+<tr>
+<td> <b> thu hai </b> </td>
+<td> 8:00-10:00 </td>
+<td> toan hoc </td>
+</tr>
+<tr>
+<td> <b> thu ba </b> </td>
+<td> 10:30-12:00 </td>
+<td> vat ly </td>
+</tr>
+<tr>
+<td> <b> thu tu </b> </td>
+<td> 8:00-10:00 </td>
+<td> lich su </td>
+</tr>
+<tr>
+<td> <b> thu nam </b> </td>
+<td> 10:30-12:00 </td>
+<td> toan hoc </td>
+</tr>
+<tr>
+<td> <b> thu sau </b> </td>
+<td> 8:00-10:00 </td>
+<td> tin hoc </td>
+</tr>
+</table>
+</body>
+</html>
